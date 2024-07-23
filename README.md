@@ -5,6 +5,7 @@ A tiny webserver written in C
 ```
 mkdir builddir &&
 meson setup builddir &&
+cp index.html builddir &&
 cd builddir &&
 meson compile
 ```
