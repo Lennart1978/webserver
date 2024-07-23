@@ -1,5 +1,5 @@
 # webserver
-A tiny webserver written in C
+A tiny webserver written in C for Linux
 
 ## compile:
 ```
